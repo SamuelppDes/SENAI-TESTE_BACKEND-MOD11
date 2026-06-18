@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fT7pqzH9OsY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ead_dev\\Documents\\Samuel\\Calculadora_IMC_WEB\\Calculadora_IMC_WEB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ead_dev\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.9\\microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",
+    "C:\\Users\\ead_dev\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
